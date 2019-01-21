@@ -1,2 +1,2 @@
 # SandBlog
-A fake blog site to lear jekyll
+A fake blog site to learn jekyll
